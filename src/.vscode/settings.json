@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "head.h": "c",
+        "s21_decimal.h": "c",
+        "s21_struct.h": "c"
+    }
+}
